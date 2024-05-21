@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Eu sou a Ruth</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=F7367B&random=false&width=435&lines=Ol%C3%A1%F0%9F%91%8B!+Eu+sou+a+Ruth+%3A))](https://git.io/typing-svg)
 
 ###
 
@@ -50,7 +50,8 @@
 
 ###
 
-<br clear="both">
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xavierruth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -62,5 +63,6 @@
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/91/cc/30/91cc30e404ebd860d47d4ee61bdf61dc.gif"  />
 </div>
+
 
 ###
