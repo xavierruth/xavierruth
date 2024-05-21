@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=F7367B&random=false&width=435&lines=Ol%C3%A1%F0%9F%91%8B!+Eu+sou+a+Ruth+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=F7367B&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+a+Ruth%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ###
 
