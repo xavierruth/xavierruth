@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">👩‍💻 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac PE;<br><br> 👩‍🎨Monitora de Design de Interação;<br><br>🚀 Fiz parte da Startup Apé como co-fundadora, Head de Operações e UIUX Designer durante 1 anos e 6 meses. Uma Startup com foco em desenvolver tecnologias para o turismo;<br><br>✨ Adoro desenvolver designs criativos e acessíveis;<br><br>🎨 Já trabalhei como ilustradora freelancer durante 2 anos; 🍰 Sou entusiasta na cozinha e adoro assistir aos filmes do Studio Ghibli.</p>
+<p align="left">👩‍💻 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac PE;<br><br> 👩‍🎨Monitora de Design de Interação;<br><br>🚀 Fiz parte da Startup Apé como co-fundadora, Head de Operações e UIUX Designer durante 1 anos e 6 meses. Uma Startup com foco em desenvolver tecnologias para o turismo;<br><br>✨ Adoro desenvolver designs criativos e acessíveis;<br><br>🎨 Já trabalhei como ilustradora freelancer durante 2 anos; <br><br> 🍰 Sou entusiasta na cozinha e adoro assistir aos filmes do Studio Ghibli.</p>
 
 ###
 
