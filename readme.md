@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">👩‍💻 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac PE;<br><br> 👩‍🎨Monitora de Design de Interação;<br><br>🚀 Fiz parte da Startup Apé como co-fundadora, Head de Operações e UIUX Designer durante 1 anos e 6 meses. Uma Startup com foco em desenvolver tecnologias para o turismo;<br><br>✨ Adoro desenvolver designs criativos e acessíveis;<br><br>🎨 Já trabalhei como ilustradora freelancer durante 2 anos; <br><br> 🍰 Sou entusiasta na cozinha e adoro assistir aos filmes do Studio Ghibli.</p>
+<p align="left">👩‍💻 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac PE;<br><br> 👩‍🎨Fui monitora de Design de Interação (2024.1 - 2024.2);<br><br>🚀 Fiz parte da Startup Apé como co-fundadora, Head de Operações e UIUX Designer durante 1 anos e 6 meses. Uma Startup com foco em desenvolver tecnologias para o turismo;<br><br>🎨 Já trabalhei como ilustradora freelancer durante 2 anos; <br><br>✨ Adoro desenvolver designs criativos e acessíveis;<br><br> 🍰 Sou entusiasta na cozinha, arrisco na costura e adoro assistir aos filmes do Studio Ghibli :3</p>
 
 ###
 
@@ -28,6 +28,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="Illustrator logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="Photoshop logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="Notion logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="Jira logo" />
+
+
+
+
 </div>
 
 ###
@@ -55,13 +67,9 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xavierruth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xavierruth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="center" src="https://i.pinimg.com/originals/91/cc/30/91cc30e404ebd860d47d4ee61bdf61dc.gif"  />
+  <img src="https://i.pinimg.com/originals/91/cc/30/91cc30e404ebd860d47d4ee61bdf61dc.gif" height="150"/>
+</p>
 
 ###
